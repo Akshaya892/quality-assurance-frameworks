@@ -117,4 +117,5 @@ Allure Report
 
 ## Allure report screenshots
 https://github.com/Akshaya892/quality-assurance-frameworks/issues/2#issue-4723416293
+https://github.com/Akshaya892/quality-assurance-frameworks/issues/3#issue-4723448598
 
