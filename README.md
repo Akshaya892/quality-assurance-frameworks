@@ -39,9 +39,12 @@ Maps Gherkin steps to Selenium code.
 Example:
 
 ```gherkin
-Given User is on Login Page
-When User enters username as "admin"
-Then User should be redirected to Dashboard
+Given User opens DemoQA website
+Then User should see DemoQA homepage loaded
+When User clicks on Forms card
+And User fills the registration form
+Then User should see the submitted form details
+
 ```
 
 ### Hooks
