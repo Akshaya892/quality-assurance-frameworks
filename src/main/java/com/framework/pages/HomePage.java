@@ -8,8 +8,8 @@ public class HomePage {
 
     WebDriver driver;
 
-    // Constructor
-    public HomePage(WebDriver driver) {
+    public HomePage(WebDriver driver)
+    {
         this.driver = driver;
     }
 
