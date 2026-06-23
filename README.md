@@ -115,4 +115,6 @@ Allure Report
 - BDD (Behavior Driven Development)
 - Object-Oriented Programming
 
+## Allure report screenshots
+https://github.com/Akshaya892/quality-assurance-frameworks/issues/2#issue-4723416293
 
